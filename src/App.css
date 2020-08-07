@@ -1,0 +1,39 @@
+
+a{
+  color:black !important;
+}
+h1{
+  color:black !important;
+}
+
+.brand-logo,h2{
+  font-family: 'Grand Hotel', cursive;
+}
+.mycard{
+  margin-top: 20px;
+}
+.auth-card{
+
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin:10px auto;
+}
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.iteam{
+  width:30%;
+
+}
+
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin:20px auto;
+}
+#tost-container{
+  color:blue;
+}
